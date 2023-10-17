@@ -22,7 +22,7 @@ public class Loops {
         for (int i = 1; i < dimension*dimension+1; i++) {
             System.out.print("#\t");
             if (i % dimension == 0){
-                System.out.println();
+                System.out.println("skakaci pes");
             }
         }
 
